@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-A programming language used to make websotes interactive.
+A programming language used to make websites interactive.
 
 ## 3. What three problems does Git & GitHub solve?
 
